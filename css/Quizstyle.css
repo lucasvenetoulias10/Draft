@@ -11,7 +11,8 @@ h1, h4 {
 table {
   background-color: #FF7F50;
   border: 50px;
-  border-color: #0000FF;
+  border-color: #000000;
+  padding: 50px;
   color: #000000;
   font-family: "Times New Roman", Times, serif;
   text-align: left;
