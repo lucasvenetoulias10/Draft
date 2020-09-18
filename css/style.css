@@ -1,3 +1,18 @@
-body {
-  background-color: #F3F455;
+head, body {
+  background-color: #FF7F50;
+}
+
+h1 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+table {
+  background-color: #FF7F50;
+  color: #000000;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  border-color: #0000FF;
+  border: 50px; 
 }
