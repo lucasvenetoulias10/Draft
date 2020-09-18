@@ -2,7 +2,7 @@ head, body {
   background-color: #FF7F50;
 }
 
-h1 {
+h1, h4 {
   color: black;
   font-family: "Times New Roman", Times, serif;
 }
@@ -10,9 +10,9 @@ h1 {
 
 table {
   background-color: #FF7F50;
+  border: 50px;
+  border-color: #0000FF;
   color: #000000;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  border-color: #0000FF;
-  border: 50px; 
 }
